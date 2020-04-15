@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{E0C7DB5C-948C-4280-96B2-E7F0636138D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "ConsoleApp1\Test.csproj", "{E0C7DB5C-948C-4280-96B2-E7F0636138D0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{78528B47-A891-4E78-AC0D-31DBF6039863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tom", "ConsoleApp2\Tom.csproj", "{78528B47-A891-4E78-AC0D-31DBF6039863}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
