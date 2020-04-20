@@ -6,13 +6,20 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Write("Введите своё имя: ");
-            string name = Console.ReadLine();
-            Console.WriteLine($"Привет {name}");
-            Console.ReadKey();
-           
-           
-
+            string password;
+            do
+            {
+                Console.WriteLine("Введите пароль");
+                password = Console.ReadLine();
+            }
+            while (password != "root");
         }
     }
+
+
+
+
+
+
 }
+    
