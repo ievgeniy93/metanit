@@ -9,25 +9,16 @@ namespace Методы
             Method1();
             Method2();
             string s = Hello();
-            int c = Sum();
-            string t = Hello2();
-            Console.WriteLine(t);
+            int z = 90;
+            int c = Sum(z,15);
             Console.WriteLine(c);
             Console.WriteLine(s);
             
             Console.ReadKey();
 
         }
-        
-        static int Sum()
-        {
-        int x = 2;
-        int y = 3;
-        int z = x + y;
-            return z;
-           
-        }
 
+        
         static string Hello()
         {
             return "Zdorov!";
@@ -43,10 +34,11 @@ namespace Методы
             Console.WriteLine("Methid 2");
         }
 
-        static string Hello2() => "tetststststst";
-        static void SayHello() => Console.WriteLine("Hello");
-        static string GetHello() => "hello";
+        static int Sum(int x, int y)
+        {
+            return x + y;
+        }
+        
 
-
-    }
+}
 }
