@@ -36,6 +36,8 @@ namespace SortApp
                 Console.WriteLine(nums[i]);
             }
             Console.ReadLine();
-        }
+
+
+                    }
     }
 }

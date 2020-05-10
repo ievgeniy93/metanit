@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Конструкции", "�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Циклы", "ConsoleApp3\Циклы.csproj", "{E88DB0B7-D23E-4D83-95F3-F4A6084E207D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Методы", "Методы\Методы.csproj", "{12FFDD1B-FD48-48CB-8654-168ED42B8F55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Методы", "Методы\Методы.csproj", "{12FFDD1B-FD48-48CB-8654-168ED42B8F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ссылки и значения", "Ссылки и значения\Ссылки и значения.csproj", "{7516C636-364A-48B7-801A-3F245CDFE72E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{12FFDD1B-FD48-48CB-8654-168ED42B8F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12FFDD1B-FD48-48CB-8654-168ED42B8F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12FFDD1B-FD48-48CB-8654-168ED42B8F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7516C636-364A-48B7-801A-3F245CDFE72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7516C636-364A-48B7-801A-3F245CDFE72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7516C636-364A-48B7-801A-3F245CDFE72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7516C636-364A-48B7-801A-3F245CDFE72E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
